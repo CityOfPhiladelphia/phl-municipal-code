@@ -1,6 +1,6 @@
-# Charter and Municipal Code of the City of Philadelphia
+# Municipal Code and City Charter
 
-Zipped file of the raw text of the City of Philadelphia Municipal Code and City Charter.
+Zipped file of the raw text of the City of Philadelphia Municipal Code and City Charter. [Donwload](https://github.com/CityOfPhiladelphia/phl-municipal-code/archive/master.zip) a .zip copy of this material.
 
 ## Disclaimer
 The file(s) contained herein are raw data representations of certain Municipal Code of the City of Philadelphia for reuse in applications by anyone who chooses to do so.  This is not the official copy of the City of Philadelphia’s Code and should not be relied upon for legal or any other official purposes.  Please refer to the [Official Codes hosted by American Legal Publishing](http://www.amlegal.com/library/pa/philadelphia.shtml).
