@@ -1,4 +1,4 @@
-# Municipal Code and City Charter
+# Municipal Code & City Charter
 
 Raw text of the City of Philadelphia Municipal Code and City Charter. [Donwload](https://github.com/CityOfPhiladelphia/phl-municipal-code/archive/master.zip) a .zip copy of this material.
 
